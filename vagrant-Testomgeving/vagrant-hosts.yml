@@ -32,5 +32,4 @@
 
 - name: srv001
   ip: 192.168.56.31
-  projectPath:  C:\\Users\\Pieter\\workspaces\\devops-project-web-h8\\Europart
-
+  projectPath: C:\\Users\\Vic\\Documents\\devops-project-web-h8\\Europart

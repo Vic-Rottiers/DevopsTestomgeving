@@ -17,7 +17,7 @@ De testomgeving werkt met Vagrant, dit is de software die ervoor zorgt dat de om
 ## 1. De testomgeving clonen
 
 Clone deze github repo:
-<https://github.com/HoGentTIN/devops-project-ops-2122-h8-ops>
+[DevopsTestomgeving](https://github.com/Vic-Rottiers/DevopsTestomgeving)
 
 ## 2. Installeren van Vagrant
 
