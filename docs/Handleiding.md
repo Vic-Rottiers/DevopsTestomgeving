@@ -28,12 +28,12 @@ Dit bevindt zich in de `/docs` folder.
 
 ## 3. De applicatie klaarmaken
 
-Om de lokale testomgeving te kunnen gebruiken moet er aan de solution nog een dockerfile toegevoegd worden. Dit gebruikt de testomgeving als instructies om de applicatie te builden, en vervolgens in de testomgeving klaar te zetten.
+Om de lokale testomgeving te kunnen gebruiken moet er aan de solution nog een paar dockerfile's toegevoegd worden. Dit gebruikt de testomgeving als instructies om de applicatie te builden, en vervolgens in de testomgeving klaar te zetten.
 
-1. Rechterklik op het project dat je wil als backend draaien  
-   (In EuropArt maakt het niet uit bij welk van de 3 je dit doet, hij neemt alle 3 de projecten mee in de build)
-2. klik op Add -> Docker support
-3. Er wordt normaal gezien een Dockerfile aangemaakt binnen het gekozen project. Als dit gebeurd is deze stap in orde.
+Controleer of volgende bestanden aanwezig zijn, en voeg ze toe indien nodig:
+
+- Kopieer de 3 bestanden uit Dockerfiles en zet ze in de root van het project  
+  (dus in de `\devops-project-web-h8\Europart` map)
 
 ## 4. De testomgeving opzetten
 
