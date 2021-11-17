@@ -10,7 +10,7 @@ Voor de testomgeving heb volgende software nodig:
 
 - [Vagrant](https://www.vagrantup.com/downloads)
 - [Virtualbox](https://download.virtualbox.org/virtualbox/6.1.26/VirtualBox-6.1.26-145957-Win.exe)
-- [testomgeving](https://github.com/HoGentTIN/devops-project-ops-2122-h8-ops/tree/main/vagrant-Testomgeving)
+- [testomgeving](https://github.com/Vic-Rottiers/DevopsTestomgeving)
 
 > Je kan vagrant en virtualbox makkelijk installeren a.d.h.v het [installatiescript](docs/scripts/VagrantInstaller.ps1)
 
