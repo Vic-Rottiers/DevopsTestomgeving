@@ -8,7 +8,7 @@ Deze testomgeving kan je gebruiken om het project te runnen van het Devops proje
 
 Voor de testomgeving heb volgende software nodig:
 
-- [Vagrant](https://www.vagrantup.com/)
+- [Vagrant](https://www.vagrantup.com/downloads)
 - [Virtualbox](https://download.virtualbox.org/virtualbox/6.1.26/VirtualBox-6.1.26-145957-Win.exe)
 - [testomgeving](https://github.com/HoGentTIN/devops-project-ops-2122-h8-ops/tree/main/vagrant-Testomgeving)
 
